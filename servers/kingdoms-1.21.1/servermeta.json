@@ -1,0 +1,16 @@
+{
+  "$schema": "file:///C:/Users/Usuario/KingdomsNebulaRoot/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Kingdoms RPG",
+    "description": "Servidor oficial Kingdoms RPG - Minecraft 1.21.1 Fabric",
+    "icon": "",
+    "address": "KingdomsRPG.exaroton.me",
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.19.3"
+  },
+  "untrackedFiles": []
+}
