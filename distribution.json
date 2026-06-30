@@ -4,8 +4,8 @@
   "servers": [
     {
       "id": "kingdoms-1.21.1",
-      "name": "Kingdoms RPG",
-      "description": "Servidor oficial Kingdoms RPG - Minecraft 1.21.1 Fabric",
+      "name": "Kingdoms",
+      "description": "Servidor oficial de Kingdoms - Minecraft 1.21.1 Fabric",
       "icon": null,
       "version": "1.0.0",
       "address": "KingdomsRPG.exaroton.me",
