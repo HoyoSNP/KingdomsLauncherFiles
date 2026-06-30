@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias Kingdoms</title>
+    <link>https://github.com/HoyoSNP/KingdomsLauncherFiles</link>
+    <description>Noticias oficiales de Kingdoms</description>
+
+    <item>
+      <title>Bienvenidos a Kingdoms</title>
+      <link>https://github.com/HoyoSNP/KingdomsLauncherFiles</link>
+      <description>El launcher oficial ya está funcionando con instalación automática de mods.</description>
+      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Actualización del modpack</title>
+      <link>https://github.com/HoyoSNP/KingdomsLauncherFiles</link>
+      <description>Se añadieron nuevos mods y mejoras para la experiencia RPG.</description>
+      <pubDate>Tue, 30 Jun 2026 13:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
