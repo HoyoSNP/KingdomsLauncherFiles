@@ -1,22 +1,45 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+
   <channel>
     <title>Noticias Kingdoms</title>
     <link>https://github.com/HoyoSNP/KingdomsLauncherFiles</link>
-    <description>Noticias oficiales de Kingdoms</description>
+    <description>Noticias oficiales de Kingdoms RPG</description>
 
     <item>
-      <title>Bienvenidos a Kingdoms</title>
+      <title>Bienvenidos a Kingdoms RPG</title>
       <link>https://github.com/HoyoSNP/KingdomsLauncherFiles</link>
-      <description>El launcher oficial ya está funcionando con instalación automática de mods.</description>
+      <dc:creator>Staff Kingdoms</dc:creator>
       <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
+      <slash:comments>0</slash:comments>
+      <content:encoded><![CDATA[
+        <h2>¡Bienvenidos a Kingdoms RPG!</h2>
+        <p>El launcher oficial ya está funcionando correctamente.</p>
+        <p>Ahora los jugadores pueden instalar automáticamente todos los mods necesarios para ingresar al servidor.</p>
+      ]]></content:encoded>
     </item>
 
     <item>
-      <title>Actualización del modpack</title>
+      <title>Actualización del Modpack</title>
       <link>https://github.com/HoyoSNP/KingdomsLauncherFiles</link>
-      <description>Se añadieron nuevos mods y mejoras para la experiencia RPG.</description>
+      <dc:creator>Staff Kingdoms</dc:creator>
       <pubDate>Tue, 30 Jun 2026 13:00:00 GMT</pubDate>
+      <slash:comments>0</slash:comments>
+      <content:encoded><![CDATA[
+        <h2>Actualización del Modpack</h2>
+        <p>Se añadieron nuevos mods RPG y mejoras de rendimiento.</p>
+        <ul>
+          <li>Optimización del cliente.</li>
+          <li>Nuevos contenidos RPG.</li>
+          <li>Corrección de errores.</li>
+        </ul>
+      ]]></content:encoded>
     </item>
+
   </channel>
+
 </rss>
