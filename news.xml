@@ -23,23 +23,6 @@
       ]]></content:encoded>
     </item>
 
-    <item>
-      <title>Actualización del Modpack</title>
-      <link>https://github.com/HoyoSNP/KingdomsLauncherFiles</link>
-      <dc:creator>Staff Kingdoms</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 13:00:00 GMT</pubDate>
-      <slash:comments>0</slash:comments>
-      <content:encoded><![CDATA[
-        <h2>Actualización del Modpack</h2>
-        <p>Se añadieron nuevos mods RPG y mejoras de rendimiento.</p>
-        <ul>
-          <li>Optimización del cliente.</li>
-          <li>Nuevos contenidos RPG.</li>
-          <li>Corrección de errores.</li>
-        </ul>
-      ]]></content:encoded>
-    </item>
-
   </channel>
 
 </rss>
