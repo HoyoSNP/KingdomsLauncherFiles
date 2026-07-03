@@ -1,11 +1,16 @@
 {
   "version": "1.0.0",
-  "rss": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/news.xml",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
   "servers": [
     {
       "id": "kingdoms-1.21.1",
-      "name": "Kingdoms",
-      "description": "Servidor oficial de Kingdoms - Minecraft 1.21.1 Fabric",
+      "name": "Kingdoms RPG",
+      "description": "Servidor oficial Kingdoms RPG - Minecraft 1.21.1 Fabric",
       "icon": null,
       "version": "1.0.0",
       "address": "KingdomsRPG.exaroton.me",
@@ -713,6 +718,16 @@
             "size": 317312,
             "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/runes-fabric-1.2.1+1.21.1.jar",
             "MD5": "b80448537036b5342b657934f2f29680"
+          }
+        },
+        {
+          "id": "me.jfenn.scoreboardoverhaul:scoreboard-overhaul:1.4.1+mc1.21.0@jar",
+          "name": "Scoreboard Overhaul",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7330665,
+            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/scoreboardoverhaul-1.4.1-mc1.21.0.jar",
+            "MD5": "a07f6eaf2f3d8dd36a3cc4e267b3ffd4"
           }
         },
         {
