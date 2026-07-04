@@ -891,6 +891,16 @@
           }
         },
         {
+          "id": "xaero.minimap:xaerominimap:26.1.0@jar",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2177932,
+            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/xaerominimap-fabric-1.21.1-26.1.0.jar",
+            "MD5": "ca4021163a3a2e0a605f1a21f1e73215"
+          }
+        },
+        {
           "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.8.2+1.21.1-fabric@jar",
           "name": "YetAnotherConfigLib",
           "type": "FabricMod",
