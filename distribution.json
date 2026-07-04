@@ -351,6 +351,16 @@
           }
         },
         {
+          "id": "carpet:carpet:1.4.147+v240613@jar",
+          "name": "Carpet Mod",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1525027,
+            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/fabric-carpet-1.21-1.4.147+v240613.jar",
+            "MD5": "01312e9955e79b21aaecc2caa7681446"
+          }
+        },
+        {
           "id": "fuzs.forgeconfigapiport.fabric.impl:forgeconfigapiport:21.1.6@jar",
           "name": "Forge Config API Port",
           "type": "FabricMod",
@@ -368,6 +378,16 @@
             "size": 5569793,
             "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
             "MD5": "882dc798bf56e49d746da462da242afd"
+          }
+        },
+        {
+          "id": "net.xolt:freecam:1.3.0+mc1.21@jar",
+          "name": "Freecam",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1130079,
+            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/freecam-fabric-1.3.0+mc1.21.jar",
+            "MD5": "fd2b2f08127a95206ca5b28ba24d43a4"
           }
         },
         {
@@ -401,13 +421,23 @@
           }
         },
         {
-          "id": "garden.hestia:hoofprint:1.3.0+1.21@jar",
-          "name": "Hoofprint",
+          "id": "toni.immersivedamageindicators:immersivedamageindicators:1.0.0@jar",
+          "name": "Immersive Damage Indicators",
           "type": "FabricMod",
           "artifact": {
-            "size": 69218,
-            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/hoofprint-1.3.0+1.21.jar",
-            "MD5": "80277ce009523f9d5c23e105ad7d1945"
+            "size": 915260,
+            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/immersivedamageindicators-fabric-1.0.0-1.21.1.jar",
+            "MD5": "957803444c7be1ae953ac4c1023fe66f"
+          }
+        },
+        {
+          "id": "toni.immersivemessages:immersivemessages:1.0.18@jar",
+          "name": "Immersive Messages API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1946502,
+            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/immersivemessages-fabric-1.0.18-1.21.1.jar",
+            "MD5": "01b27fdd7b9a0abd0dce2fc6d549fcd8"
           }
         },
         {
@@ -441,13 +471,13 @@
           }
         },
         {
-          "id": "journeymap:journeymap:1.21.1-6.0.0-beta.83@jar",
-          "name": "Journeymap",
+          "id": "com.kingdoms.rpglevel:kingdoms_rpg_level_hud:5.0.0@jar",
+          "name": "Kingdoms RPG Level HUD",
           "type": "FabricMod",
           "artifact": {
-            "size": 4154292,
-            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/journeymap-fabric-1.21.1-6.0.0-beta.83.jar",
-            "MD5": "3c0afe5d6bfb583db4097e1e66412dc5"
+            "size": 3657,
+            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/Kingdoms_RPG_Level_HUD_v5.jar",
+            "MD5": "9c90ff1654c6f2a3a6516a3e3487096b"
           }
         },
         {
@@ -468,6 +498,16 @@
             "size": 2017417,
             "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/lambdynamiclights-4.8.8+1.21.1.jar",
             "MD5": "7b54b493307317ed33219dbf263eb354"
+          }
+        },
+        {
+          "id": "fi.dy.masa:litematica:0.19.60@jar",
+          "name": "Litematica",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1578454,
+            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/litematica-fabric-1.21-0.19.60.jar",
+            "MD5": "72a99316c2366d53d820076109604126"
           }
         },
         {
@@ -531,6 +571,16 @@
           }
         },
         {
+          "id": "fi.dy.masa:malilib:0.21.10@jar",
+          "name": "MaLiLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1411200,
+            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/malilib-fabric-1.21-0.21.10.jar",
+            "MD5": "6a5553e46eed0692d17b8cd566aed103"
+          }
+        },
+        {
           "id": "dev.sisby:mcqoy:0.4.1+fabric-1.20@jar",
           "name": "Barebones McQoy",
           "type": "FabricMod",
@@ -591,16 +641,6 @@
           }
         },
         {
-          "id": "info.u_team.music_player:musicplayer:2.7.1.351@jar",
-          "name": "Music Player",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 38633496,
-            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/music_player-fabric-1.21.1-2.7.1.351.jar",
-            "MD5": "100dd01dcf240a426a00c0d4cf9df9ea"
-          }
-        },
-        {
           "id": "dev.tr7zw:notenoughanimations:1.12.3@jar",
           "name": "NotEnoughAnimations",
           "type": "FabricMod",
@@ -618,6 +658,26 @@
             "size": 1963544,
             "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/owo-lib-0.13.0-alpha.15+1.21.jar",
             "MD5": "a3eb2ecafeb4bc1fb453b13cb43a12c1"
+          }
+        },
+        {
+          "id": "fuzs.paperdoll:paperdoll:21.1.1@jar",
+          "name": "Paper Doll",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 52518,
+            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/PaperDoll-v21.1.1-1.21.1-Fabric.jar",
+            "MD5": "192c7015bba9cbd8ede9c041794c362d"
+          }
+        },
+        {
+          "id": "fuzs.pickupnotifier:pickupnotifier:21.1.1@jar",
+          "name": "Pick Up Notifier",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 95293,
+            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/PickUpNotifier-v21.1.1-1.21.1-Fabric.jar",
+            "MD5": "addac5abb66a145a54929c5bf02c991d"
           }
         },
         {
@@ -801,16 +861,6 @@
           }
         },
         {
-          "id": "folk.sisby:surveyor:1.2.1+1.21@jar",
-          "name": "Surveyor Map Framework",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 602331,
-            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/surveyor-1.2.1+1.21.jar",
-            "MD5": "469fb727502d5160a5249ad06088ae44"
-          }
-        },
-        {
           "id": "net.stardustlabs:terralith:2.6.2@jar",
           "name": "Terralith",
           "type": "FabricMod",
@@ -828,6 +878,16 @@
             "size": 272944,
             "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/trinkets-3.10.0.jar",
             "MD5": "4a42e243d6d5c25dea83be3ddc0b28b1"
+          }
+        },
+        {
+          "id": "toni.lib:txnilib:1.0.24@jar",
+          "name": "TxniLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1303092,
+            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/txnilib-fabric-1.0.24-1.21.1.jar",
+            "MD5": "9b1450d894eb39026c191af8238b73a1"
           }
         },
         {
@@ -858,16 +918,6 @@
             "size": 117929,
             "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/village_taverns-fabric-1.1.5+1.21.1.jar",
             "MD5": "87917f0d7d88cf73879550be4c0d06b3"
-          }
-        },
-        {
-          "id": "com.vinurl:vinurl:2.4.0@jar",
-          "name": "VinURL",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 138697,
-            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/vinurl-2.4.0+mc1.21.1.jar",
-            "MD5": "47017d98925eb66dc466b0d02acace58"
           }
         },
         {
