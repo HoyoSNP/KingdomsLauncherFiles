@@ -12,7 +12,7 @@
       "name": "Kingdoms RPG",
       "description": "Servidor oficial Kingdoms RPG - Minecraft 1.21.1 Fabric",
       "icon": null,
-      "version": "1.0.1",
+      "version": "1.0.0",
       "address": "KingdomsRPG.exaroton.me",
       "minecraftVersion": "1.21.1",
       "mainServer": true,
@@ -948,141 +948,7 @@
             "size": 2177932,
             "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/xaerominimap-fabric-1.21.1-26.1.0.jar",
             "MD5": "ca4021163a3a2e0a605f1a21f1e73215"
-          },
-          "subModules": [
-            {
-              "id": "xaero-config-config-xaero-lib-client-cfg",
-              "name": "Xaero Config: config/xaero/lib/client.cfg",
-              "type": "File",
-              "artifact": {
-                "size": 26,
-                "MD5": "dd7d24d2b991f7648671c16d0a74c265",
-                "path": "config/xaero/lib/client.cfg",
-                "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/config/xaero/lib/client.cfg"
-              }
-            },
-            {
-              "id": "xaero-config-config-xaero-lib-common-cfg",
-              "name": "Xaero Config: config/xaero/lib/common.cfg",
-              "type": "File",
-              "artifact": {
-                "size": 236,
-                "MD5": "e085e122e32132e1fa73ac927f7ece81",
-                "path": "config/xaero/lib/common.cfg",
-                "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/config/xaero/lib/common.cfg"
-              }
-            },
-            {
-              "id": "xaero-config-config-xaero-lib-profiles-default-cfg",
-              "name": "Xaero Config: config/xaero/lib/profiles/default.cfg",
-              "type": "File",
-              "artifact": {
-                "size": 121,
-                "MD5": "e6a2491cfa99c4163942c19eb7b4c489",
-                "path": "config/xaero/lib/profiles/default.cfg",
-                "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/config/xaero/lib/profiles/default.cfg"
-              }
-            },
-            {
-              "id": "xaero-config-config-xaero-lib-server_profiles-default-cfg",
-              "name": "Xaero Config: config/xaero/lib/server_profiles/default.cfg",
-              "type": "File",
-              "artifact": {
-                "size": 75,
-                "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
-                "path": "config/xaero/lib/server_profiles/default.cfg",
-                "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/config/xaero/lib/server_profiles/default.cfg"
-              }
-            },
-            {
-              "id": "xaero-config-config-xaero-minimap-client-cfg",
-              "name": "Xaero Config: config/xaero/minimap/client.cfg",
-              "type": "File",
-              "artifact": {
-                "size": 235,
-                "MD5": "7a8d5e6353c7471f6002052f1fbd71bb",
-                "path": "config/xaero/minimap/client.cfg",
-                "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/config/xaero/minimap/client.cfg"
-              }
-            },
-            {
-              "id": "xaero-config-config-xaero-minimap-common-cfg",
-              "name": "Xaero Config: config/xaero/minimap/common.cfg",
-              "type": "File",
-              "artifact": {
-                "size": 147,
-                "MD5": "48d56532be92f58e976a2d1753abdd35",
-                "path": "config/xaero/minimap/common.cfg",
-                "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/config/xaero/minimap/common.cfg"
-              }
-            },
-            {
-              "id": "xaero-config-config-xaero-minimap-default_radar_categories_client-json",
-              "name": "Xaero Config: config/xaero/minimap/default_radar_categories_client.json",
-              "type": "File",
-              "artifact": {
-                "size": 5531,
-                "MD5": "6aa0c1720795d59a3cd21e3becba9685",
-                "path": "config/xaero/minimap/default_radar_categories_client.json",
-                "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/config/xaero/minimap/default_radar_categories_client.json"
-              }
-            },
-            {
-              "id": "xaero-config-config-xaero-minimap-default_radar_categories_server-json",
-              "name": "Xaero Config: config/xaero/minimap/default_radar_categories_server.json",
-              "type": "File",
-              "artifact": {
-                "size": 4597,
-                "MD5": "7ffe568a308241b93166af2d45ce79c7",
-                "path": "config/xaero/minimap/default_radar_categories_server.json",
-                "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/config/xaero/minimap/default_radar_categories_server.json"
-              }
-            },
-            {
-              "id": "xaero-config-config-xaero-minimap-profiles-default-cfg",
-              "name": "Xaero Config: config/xaero/minimap/profiles/default.cfg",
-              "type": "File",
-              "artifact": {
-                "size": 3754,
-                "MD5": "b559e2a999502c8b4e8233e2293c3d50",
-                "path": "config/xaero/minimap/profiles/default.cfg",
-                "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/config/xaero/minimap/profiles/default.cfg"
-              }
-            },
-            {
-              "id": "xaero-config-config-xaero-minimap-profiles-entity_radar_categories-default-cfg-json",
-              "name": "Xaero Config: config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
-              "type": "File",
-              "artifact": {
-                "size": 5531,
-                "MD5": "6aa0c1720795d59a3cd21e3becba9685",
-                "path": "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
-                "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
-              }
-            },
-            {
-              "id": "xaero-config-config-xaero-minimap-profiles-info_display_config-default-cfg-txt",
-              "name": "Xaero Config: config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
-              "type": "File",
-              "artifact": {
-                "size": 683,
-                "MD5": "cc5f1a103a1ef9adc4a1588bddd3b544",
-                "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
-                "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
-              }
-            },
-            {
-              "id": "xaero-config-config-xaero-minimap-server_profiles-default-cfg",
-              "name": "Xaero Config: config/xaero/minimap/server_profiles/default.cfg",
-              "type": "File",
-              "artifact": {
-                "size": 75,
-                "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
-                "path": "config/xaero/minimap/server_profiles/default.cfg",
-                "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/config/xaero/minimap/server_profiles/default.cfg"
-              }
-            }
-          ]
+          }
         },
         {
           "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.8.2+1.21.1-fabric@jar",
