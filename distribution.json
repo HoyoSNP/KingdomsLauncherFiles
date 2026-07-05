@@ -791,6 +791,17 @@
           }
         },
         {
+          "id": "kingdoms-scoreboard-overhaul-config",
+          "name": "Kingdoms Scoreboard Overhaul 75%",
+          "type": "File",
+          "artifact": {
+            "size": 554,
+            "MD5": "fa5340e999e399754cc79109a4211d06",
+            "path": "config/scoreboard-overhaul.json",
+            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/config/scoreboard-overhaul.json"
+          }
+        },
+        {
           "id": "net.fabric_extras:shield_api:2.2.0@jar",
           "name": "Shield API",
           "type": "FabricMod",
