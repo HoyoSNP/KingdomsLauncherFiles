@@ -951,6 +951,17 @@
           }
         },
         {
+          "id": "kingdoms-xaero-hud-position",
+          "name": "Kingdoms Xaero Minimap Position",
+          "type": "File",
+          "artifact": {
+            "size": 122,
+            "MD5": "16e10ac2af0c379ea8b13b8525fc85be",
+            "path": "config/xaerohud.txt",
+            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/config/xaerohud.txt"
+          }
+        },
+        {
           "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.8.2+1.21.1-fabric@jar",
           "name": "YetAnotherConfigLib",
           "type": "FabricMod",
