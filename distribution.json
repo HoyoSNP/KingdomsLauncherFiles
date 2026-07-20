@@ -9,9 +9,9 @@
   "servers": [
     {
       "id": "kingdoms-1.21.1",
-      "name": "Kingdoms",
-      "description": "Servidor oficial Kingdoms - Minecraft 1.21.1 Fabric",
-      "icon": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/assets/icon.png",
+      "name": "Kingdoms RPG",
+      "description": "Servidor oficial Kingdoms RPG - Minecraft 1.21.1 Fabric",
+      "icon": null,
       "version": "1.0.0",
       "address": "KingdomsRPG.exaroton.me",
       "minecraftVersion": "1.21.1",
@@ -481,6 +481,16 @@
           }
         },
         {
+          "id": "com.kingdoms.menu:kingdomsmenu:1.0.0@jar",
+          "name": "Kingdoms Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4888370,
+            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/kingdomsmenu-1.0.0.jar",
+            "MD5": "0007fd5cf2a434bba5907ab9f1612ee5"
+          }
+        },
+        {
           "id": "de.keksuccino:konkrete:1.9.9@jar",
           "name": "Konkrete",
           "type": "FabricMod",
@@ -791,17 +801,6 @@
           }
         },
         {
-          "id": "kingdoms-scoreboard-overhaul-config",
-          "name": "Kingdoms Scoreboard Overhaul 75%",
-          "type": "File",
-          "artifact": {
-            "size": 554,
-            "MD5": "fa5340e999e399754cc79109a4211d06",
-            "path": "config/scoreboard-overhaul.json",
-            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/config/scoreboard-overhaul.json"
-          }
-        },
-        {
           "id": "net.fabric_extras:shield_api:2.2.0@jar",
           "name": "Shield API",
           "type": "FabricMod",
@@ -959,17 +958,6 @@
             "size": 2177932,
             "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/xaerominimap-fabric-1.21.1-26.1.0.jar",
             "MD5": "ca4021163a3a2e0a605f1a21f1e73215"
-          }
-        },
-        {
-          "id": "kingdoms-xaero-hud-position",
-          "name": "Kingdoms Xaero Minimap Position",
-          "type": "File",
-          "artifact": {
-            "size": 122,
-            "MD5": "16e10ac2af0c379ea8b13b8525fc85be",
-            "path": "config/xaerohud.txt",
-            "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/config/xaerohud.txt"
           }
         },
         {
