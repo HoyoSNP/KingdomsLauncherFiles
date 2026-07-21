@@ -7,7 +7,7 @@
     "icon": "",
     "address": "KingdomsRPG.exaroton.me",
     "mainServer": true,
-    "autoconnect": true
+    "autoconnect": false
   },
   "fabric": {
     "version": "0.19.3"
