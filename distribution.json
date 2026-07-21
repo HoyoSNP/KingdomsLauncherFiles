@@ -16,7 +16,7 @@
       "address": "KingdomsRPG.exaroton.me",
       "minecraftVersion": "1.21.1",
       "mainServer": true,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.19.3",
