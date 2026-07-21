@@ -485,9 +485,9 @@
           "name": "Kingdoms Menu",
           "type": "FabricMod",
           "artifact": {
-            "size": 4888503,
+            "size": 4891000,
             "url": "https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/servers/kingdoms-1.21.1/fabricmods/required/kingdomsmenu-1.0.0.jar",
-            "MD5": "b2efdb496ed5bcf3c36448d713fb338f"
+            "MD5": "123bb6657717251a2dbed925512e1ea3"
           }
         },
         {
