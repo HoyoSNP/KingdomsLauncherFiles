@@ -10,29 +10,26 @@
     <link>https://github.com/HoyoSNP/KingdomsLauncherFiles</link>
     <description>Noticias oficiales de Kingdoms</description>
 
+    
+
+
+
+
+  
+
     <item>
-      <title>Bienvenidos a Kingdoms</title>
+      <title>LOC OOCOCOCO</title>
       <link>https://github.com/HoyoSNP/KingdomsLauncherFiles</link>
       <dc:creator>Kingdoms</dc:creator>
-      <pubDate>Wed, 25 Nov 2026 21:00:00 GMT</pubDate>
+      <pubDate>Wed, 25 Nov 2026 22:57:43 GMT</pubDate>
       <slash:comments>0</slash:comments>
       <content:encoded><![CDATA[
-
-    <h2>¡Bienvenidos a Kingdoms!</h2>
-
-    <p>¡Gran Inauguración!</p>
-
-    <img
-      src="https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/assets/news/GranInauguracio.png"
-      alt="Bienvenida a Kingdoms"
-      style="width: 100%; border-radius: 8px;"
-    />
-
-    <p>Esta es una noticia de prueba, LOL!.</p>
-
-  ]]></content:encoded>
-</item>
-
-  </channel>
+    <h2>LOC OOCOCOCO</h2>
+    <p class="k-news-subtitle">Care poia</p>
+    <img src="https://raw.githubusercontent.com/HoyoSNP/KingdomsLauncherFiles/main/assets/news/loc-oocococo-1795647463033-e2801e.png" alt="Imagen de LOC OOCOCOCO" style="display:block;width:100%;max-width:100%;height:auto;border-radius:10px;margin:14px auto 18px;" />
+    <p>fdfdfdfdf</p>
+      ]]></content:encoded>
+    </item>
+</channel>
 
 </rss>
